@@ -8,7 +8,6 @@ Text mining is concerned with the task of extracting relevant information from n
 2.  Description
 
 Given:
-
 •	A collection of 189 sentences about data mining derived from Wikipedia given in English, French, Spanish, and German.
 
 Find:
